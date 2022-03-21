@@ -1,6 +1,6 @@
 {
     "name": "MakerBit-Ultrasonic",
-    "version": "1.0.8",
+    "version": "1.0.9",
     "description": "Ultrasonic distance measurement with an HC-SR04 sensor",
     "license": "MIT",
     "dependencies": {
@@ -15,5 +15,13 @@
     "testFiles": [
         "test.ts"
     ],
-    "public": true
+    "public": true,
+    "targetVersions": {
+        "target": "4.0.18",
+        "targetId": "microbit"
+    },
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "tsprj"
 }
