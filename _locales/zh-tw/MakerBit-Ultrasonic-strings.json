@@ -1,0 +1,11 @@
+{
+  "DistanceUnit.CM|block": "cm",
+  "DistanceUnit.INCH|block": "inch",
+  "makerbit.connectUltrasonicDistanceSensor|block": "設定超聲波距離感應器的 | Trig 為 %trig | 和 Echo 為 %echo",
+  "makerbit.getUltrasonicDistance|block": "偵察距離 單位 |%unit",
+  "makerbit.isUltrasonicDistanceLessThan|block": "偵測到物件距離小於 |%distance|%unit",
+  "makerbit.onUltrasonicObjectDetected|block": "當偵測到物件在 | %distance | %unit 範圍內",
+  "makerbit|block": "MakerBit",
+  "{id:category}Makerbit": "Makerbit",
+  "{id:subcategory}Ultrasonic": "超聲波"
+}

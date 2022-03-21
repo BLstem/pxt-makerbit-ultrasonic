@@ -9,7 +9,8 @@
     "files": [
         "README.md",
         "ultrasonic.ts",
-        "_locales/de/MakerBit-Ultrasonic-strings.json"
+        "_locales/de/MakerBit-Ultrasonic-strings.json",
+        "_locales/zh-tw/MakerBit-Ultrasonic-strings.json"
     ],
     "testFiles": [
         "test.ts"
