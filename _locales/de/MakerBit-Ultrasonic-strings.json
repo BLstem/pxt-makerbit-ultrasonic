@@ -5,5 +5,5 @@
   "makerbit.getUltrasonicDistance|block": "Ultraschall Distanz in %unit",
   "makerbit.isUltrasonicDistanceLessThan|block": "Ultraschall Distanz ist weniger als |%distance|%unit",
   "makerbit.onUltrasonicObjectDetected|block": "wenn Objekt näher als | %distance | %unit",
-  "{id:category}Makerbit": "Ultraschall",
+  "makerbit|block": "Ultraschall"
 }
