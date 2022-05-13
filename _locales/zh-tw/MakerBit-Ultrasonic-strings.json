@@ -5,7 +5,6 @@
   "makerbit.getUltrasonicDistance|block": "偵測距離 單位 |%unit",
   "makerbit.isUltrasonicDistanceLessThan|block": "偵測到物件距離小於 |%distance|%unit",
   "makerbit.onUltrasonicObjectDetected|block": "當偵測到物件在 | %distance | %unit 範圍內",
-  "makerbit|block": "MakerBit",
-  "{id:category}Makerbit": "Makerbit",
-  "{id:subcategory}Ultrasonic": "超聲波"
+  "makerbit|block": "超聲波",
+  "{id:category}Ultrasonic": "超聲波"
 }
